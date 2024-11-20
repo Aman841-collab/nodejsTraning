@@ -1,0 +1,24 @@
+{
+  "name": "nodelast",
+  "version": "1.0.0",
+  "main": "node.js",
+  "scripts": {
+    "test": "test command"
+  },
+  "repository": {
+    "type": "git",
+    "url": "123"
+  },
+  "keywords": [
+    "int"
+  ],
+  "author": "aman",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "node": "^18.20.5",
+    "nodemon": "^3.1.7"
+  }
+}

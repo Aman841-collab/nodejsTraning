@@ -1,0 +1,22 @@
+{
+  "name": "node13",
+  "version": "1.0.0",
+  "description": "test node",
+  "main": "node.js",
+  "scripts": {
+    "test": "test command"
+  },
+  "repository": {
+    "type": "git",
+    "url": "trigya innovation"
+  },
+  "keywords": [
+    "23"
+  ],
+  "author": "aman",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7"
+  }
+}

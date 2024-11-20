@@ -1,0 +1,12 @@
+{
+  "functions": {
+    "targets": [
+      "nodejs_function"
+    ],
+    "ignore": [],
+    "source": "functions"
+  },
+  "client": {
+    "source": "client"
+  }
+}

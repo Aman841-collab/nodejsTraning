@@ -1,0 +1,12 @@
+{
+	"name": "nodejs_function",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "aman.saini@trigya.co",
+	"dependencies": {
+		"cors": "^2.8.5",
+		"epxress": "^0.0.1-security",
+		"express": "^4.21.1",
+		"zcatalyst-sdk-node": "latest"
+	}
+}

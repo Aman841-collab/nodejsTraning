@@ -1,0 +1,22 @@
+{
+  "name": "node2",
+  "version": "1.0.0",
+  "description": "aman",
+  "main": "node1.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "int"
+  ],
+  "author": "amansaini",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "aman"
+  }
+}
